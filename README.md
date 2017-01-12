@@ -17,8 +17,10 @@ git init
 git add .
 git remote add  origin  https://github.com/lkitrossky/Heroes   # adding for the first time.
 git remote -v
-*origin	https://github.com/lkitrossky/Heroes (fetch)
-origin	https://github.com/lkitrossky/Heroes (push)*
+```
+*origin	https://github.com/lkitrossky/Heroes (fetch)*
+*origin	https://github.com/lkitrossky/Heroes (push)*
+```
 git fetch
 git commit
 ```
