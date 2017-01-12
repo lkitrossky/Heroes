@@ -19,6 +19,7 @@ git remote add  origin  https://github.com/lkitrossky/Heroes   # adding for the 
 git remote -v
 ```
 *origin	https://github.com/lkitrossky/Heroes (fetch)*
+
 *origin	https://github.com/lkitrossky/Heroes (push)*
 ```
 git fetch
